@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">LEIDYKURNIAHATIKA_1202154343_MODUL3</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">News</string>
+    <string name="water_info_placeholder">Here is some news</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat, massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra posuere, bibendum id lorem.</string>
+
+    <string-array name="water_title">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminarale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="water_info">
+        <item>Here is some Ades news!</item>
+        <item>Here is some Amidis news!</item>
+        <item>Here is some Aqua news!</item>
+        <item>Here is some Cleo news!</item>
+        <item>Here is some Club news!</item>
+        <item>Here is some Equil news!</item>
+        <item>Here is some Evian news!</item>
+        <item>Here is some Leminarale news!</item>
+        <item>Here is some Nestle news!</item>
+        <item>Here is some Pristine news!</item>
+        <item>Here is some Vit news!</item>
+    </string-array>
+
+    <array name="water_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
